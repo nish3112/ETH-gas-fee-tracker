@@ -1,16 +1,7 @@
 # ethapp
 
-A new Flutter project.
+A Flutter app to track ETH blockchain fees in real time using Etherscan APIs
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-07-17 115716](https://user-images.githubusercontent.com/90258872/179387020-fa1d9178-0436-478a-a976-c10d7066c341.jpg)
+![Screenshot 2022-07-17 115753](https://user-images.githubusercontent.com/90258872/179387022-35915307-5b52-4d1b-a8b9-cddf6ffbbb90.jpg)
